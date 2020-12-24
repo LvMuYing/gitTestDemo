@@ -9,5 +9,6 @@ package com.yidu.bean;
 public class Student {
     public static void main(String[] args) {
         System.out.println("helloWorld");
+        //哈哈哈
     }
 }
